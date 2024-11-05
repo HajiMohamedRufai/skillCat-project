@@ -1,0 +1,157 @@
+Work Sample Assignment
+Prompt Engineering for E-Learning Content Creation
+
+
+
+
+
+	1	Instructions:
+
+You are being asked to demonstrate your skills in prompt engineering using different Large Language Models (LLMs) and prompt engineering tools. This work sample will help us assess your ability to create effective prompts, optimize them for various LLMs, and generate engaging e-learning content.
+
+
+
+
+
+	2	Task Overview:
+
+	1	Your Topic: Select an Educational Topic:
+	◦	Choose a subject suitable for an e-learning course generation from any of the following: 
+	1	Introduction to Electronics in HVAC,
+	2	Use of Analog Electronics in today’s world,
+	3	Innovative use of Sensors and Actuators 
+	4	Applications of Thermodynamics in Mechanical Engineering
+	◦	For the course selected, create the following: 
+	1	Outline containing
+	1	Topics
+	2	Each Topic should have Subtopics
+	3	Each Sub-Topic should have Learning Objectives
+	2	Each Learning Objective should be divided Group of Slides within PPT or  Google Slides 
+	3	Each Slide should contain 
+	1	Explanation Text or Narration Text
+	2	Visual Learning aids to explain the subject. For Example,
+	1	Image / Graphic / Infographic
+	2	Animation / Video
+
+
+	2	Prompts: Design Prompts for Different LLMs:
+	◦	Tailor each prompt to leverage the strengths of different LLMs. For example, 
+	1	GPT-4
+	2	Gemini
+	3	Claude
+	◦	Ensure the prompts are clear, engaging, and aim to achieve specific learning objectives.
+
+	3	Prompting Tools: Utilize Prompt Engineering Tools:
+	◦	Use any prompt engineering tools or platforms you are familiar with to refine your prompts. For Example, 
+	1	AI Dungeon 
+	2	OpenAI Playground 
+	3	PromptPerfect
+	◦	Briefly explain how these tools helped you to enhance your prompts.
+
+	4	Prompt Outputs: Generate and Compare Outputs:
+	◦	Use at least three (3) different LLMs to generate content from your prompts.
+	◦	Use various prompting techniques  to fine-tune output generation, using 
+	1	Zero Shot Prompting, and/or
+	2	Few Shots Prompting, and/or
+	3	Chain of Thoughts, and/or
+	4	Prompt Chains, and/or
+	5	Any other method that generates the required output
+	◦	Provide the generated outputs from a combination of prompt, prompting method and LLM combination.
+	◦	Analyze the differences in the outputs based on the LLM used.
+
+	5	Optimization: Optimize Prompts for Clarity and Effectiveness:
+	◦	Based on the outputs, adjust your prompts to do all of the following in your outputs:
+	1	improve clarity, 
+	2	reduce ambiguity, and 
+	3	enhance engagement.
+	◦	Document the changes made and provide the revised prompts.
+
+	6	Presentation Output:
+	◦	The best and the most optimized output from the above tasks are presented using PPT or Google Slides
+
+
+
+
+
+C. Submission Guidelines:
+
+	•	Format: Submit your work as follows:
+	◦	Google Doc: containing the description of what you did as part of A. Task Overview providing links to each of the following Outputs you generated during the process. [Alternatively, you may also record a video and show what you have done with each of the tools.]
+	◦	PPT / Google Slides: as per 1. Your Topic and 6. Presentation Output
+	◦	Prompt Spreadsheet - Tab 1: containing a table containing the following:
+	1	3 Prompts (and/or Prompting Method) for each of the following Outputs 
+	1	Topics and SubTopics Outline
+	2	Content for Each Slide
+	3	Visual Learning Aid for each Slide
+	◦	Prompt Spreadsheet - Tab 2: containing a table of information on the 3 Prompting Tools used to optimize the above prompts with reasoning
+	◦	Prompt Spreadsheet - Tab 3: containing a table of information (4. Prompt Outputs) on each of the LLM used explaining the strengths and weaknesses you encountered while working with them. [Important: You should enter details from your own experience only and should not be copied from any website and should not be AI-generated.]
+	•	Most Important: 
+	◦	Ensure all your submissions are stored in a Google Drive Folder with at least read access to whosoever has the link. 
+	◦	Before you start this assignment, create this folder and store your resume within the folder. 
+
+	•	Deadline: Ideally not more than two weeks (However, if you need more time, may ask for the same to the contact person, given below.)
+
+	•	Contact Information: Ms. Salome Omari. resumes@skillcatapp.com. 
+
+	•	Confidentiality: Do not include any proprietary or confidential information in your submission.
+
+
+
+
+
+D. Evaluation Criteria:
+
+Your work sample will be evaluated based on the following criteria:
+
+	1	Reading Instructions:
+	◦	This is the most important criterion. 
+	◦	You need to read the instructions given in the document very carefully and ensure that every information in this document is very well understood and followed exactly.
+
+	2	Technical Skills:
+	•	Effectiveness of prompts designed for different LLMs.
+	•	Demonstrated knowledge of AI language models and their capabilities.
+	•	Proficiency in using prompt engineering tools.
+
+	3	Detail Orientation:
+	•	The more detailed you are with your prompt and the overall exercise, the better will be your chance of selection for the next round.
+	•	This includes but is not limited to
+	1	the explanation of each step of your work, 
+	2	the images you create, 
+	3	the comparison you make of the LLMs used, 
+	4	the number of LLMs that you explore, experiment, implement 
+	5	and so on.
+
+	4	Content Development Skills:
+	•	Quality of writing and clarity of prompts.
+	•	Skill in optimizing prompts based on output analysis.
+
+	5	Understanding of Educational Objectives:
+	•	Alignment of content with specified learning objectives.
+	•	Consideration of educational standards in prompt and content creation.
+
+	6	Analytical Skills:
+	•	Ability to analyze and compare outputs from different LLMs.
+	•	Effectiveness in refining prompts based on this analysis.
+
+	7	Presentation and Organization:
+	•	Clarity (Easy to read with least clutter) of the document/spreadsheet.
+	•	Organization of the submitted document/spreadsheet.
+	•	Professionalism, Formatting and attention to detail.
+
+
+
+
+
+E. Additional Information:
+
+	•	Detail-Orientation: 
+	•	Resources: You may use any publicly available resources or documentation related to LLMs and prompt engineering tools.
+	•	Assumptions: If you make any assumptions in your work, please clearly state them.
+	•	Questions: If you have any questions or need clarifications, feel free to reach out to us.
+
+
+
+
+
+We look forward to reviewing your submission and assessing your skills in prompt engineering and e-learning content creation.
+
